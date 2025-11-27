@@ -26,8 +26,8 @@ A comprehensive SaaS analytics platform designed to track key business metrics i
 
 ### Analytics & Business Intelligence
 
-| Feature | Description | Status |
-|---------|-------------|--------|
+| Feature | Description |
+|---------|-------------|
 | **Revenue Analytics** | Track MRR, ARR, growth trends, and 12-month forecasting | 
 | **User Metrics** | Monitor user growth, engagement rates, and activity patterns | 
 | **Churn Analysis** | Identify at-risk customers and churn trends with predictive metrics | 
