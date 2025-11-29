@@ -1,6 +1,6 @@
-# Contributing to Elevate SEO
+# Contributing to SaaS Insights Hub
 
-First off, thank you for considering contributing to Elevate SEO! It's people like you that make this project better.
+First off, thank you for considering contributing to SaaS Insights Hub! It's people like you that make this project better.
 
 ## Code of Conduct
 
@@ -83,3 +83,4 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 Feel free to open an issue for clarification or reach out to the maintainers.
 
 Thank you for contributing!
+
